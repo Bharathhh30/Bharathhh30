@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bharathhh30
-- 👀 I’m interested in Backend development , Data Science and Machine Learning
+- 👀 I’m interested in Full Stack development , App Development , Data Science and Machine Learning
 - 🌱 I’m currently learning Backend dev
 - 💞️ I’m looking to collaborate on Backend and GenAi projects
 - 📫 How to reach me vnsb30@gmail.com
